@@ -141,7 +141,14 @@ img {
         align-items: center;
     }
 
-    .container{
+    .steps .col {
+        width: 100%;
+    }
+
+    .lessons . col{
+        width: 100%;
+    }
+    .why-us .col-right{
         width: 100%;
     }
  }
